@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Ark Inventory [Rules] Resist
+## Notes: Adds the resist() rule to ArkInventory
+## Author: Scoots
+## Version: 1.0
+## RequiredDeps: ArkInventoryRules
+
+ArkInventoryRules_Resist.lua
+ArkInventoryRules_Resist.xml
