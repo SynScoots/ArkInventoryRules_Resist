@@ -8,6 +8,6 @@ Download this repository, then extract the `ArkInventoryRules_Resist` subdirecto
 
 ## Usage ##
 
-`resist()` to match any item with a resist.
-`resist("fire")` to match any item with fire resistance.
+`resist()` to match any item with a resist.\
+`resist("fire")` to match any item with fire resistance.\
 `resist("fire", "arcane", "frost")` to match any item with either fire, arcane, or frost resistance.
